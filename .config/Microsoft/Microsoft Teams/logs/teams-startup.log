@@ -1,0 +1,11 @@
+Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/kim/dotfiles/config/Microsoft/Microsoft Teams/hooks.json'"
+(node:173883) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+(teams:173883): Gtk-WARNING **: 09:34:57.803: Theme parsing error: gtk-contained-dark.css:2871:228: Missing closing bracket for :not()
+(node:173883) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:173883) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+[173883:0812/093727.819798:FATAL:gpu_data_manager_impl_private.cc(442)] GPU process isn't usable. Goodbye.
+/dev/fd/3: No such file or directory
+Server response: 
+/dev/fd/3: No such file or directory
+Server response: 

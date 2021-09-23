@@ -1,0 +1,244 @@
+{
+   "checksum": "41c0dd2cd8764b6537b05badc34db826",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13272279645634499",
+               "guid": "68fc9516-59ac-447e-a8a6-ff27d558da91",
+               "id": "7",
+               "meta_info": {
+                  "Description": "travel, airfare",
+                  "Partner": "68fc9516-59ac-447e-a8a6-ff27d558da91",
+                  "Thumbnail": "/resources/sd_booking.com.png"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/booking-dk"
+            }, {
+               "date_added": "13272279645634599",
+               "guid": "a4d0c752-2bf7-470d-85cd-8b2ddd1ec82b",
+               "id": "8",
+               "meta_info": {
+                  "Partner": "a4d0c752-2bf7-470d-85cd-8b2ddd1ec82b",
+                  "Thumbnail": "/resources/sd_youtube.png"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13272279645634616",
+               "guid": "55f96496-ffcf-4b5d-8bc4-d7e7eedbcdfc",
+               "id": "9",
+               "meta_info": {
+                  "Partner": "55f96496-ffcf-4b5d-8bc4-d7e7eedbcdfc",
+                  "Thumbnail": "/resources/sd_dk_bt.png"
+               },
+               "name": "BT.dk",
+               "type": "url",
+               "url": "https://bt.dk/"
+            }, {
+               "date_added": "13272279645634631",
+               "guid": "c88fe4c4-7a75-444e-b75e-c68c2c73c676",
+               "id": "10",
+               "meta_info": {
+                  "Partner": "c88fe4c4-7a75-444e-b75e-c68c2c73c676"
+               },
+               "name": "Berlingske.dk",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/berlingske.dk"
+            }, {
+               "date_added": "13272279645634648",
+               "guid": "44d32981-5dcf-4a1f-be5b-3c0d03c7a0a1",
+               "id": "11",
+               "meta_info": {
+                  "Description": "shopping",
+                  "Partner": "44d32981-5dcf-4a1f-be5b-3c0d03c7a0a1",
+                  "Thumbnail": "/resources/sd_ebay.png"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ebay-dk"
+            }, {
+               "date_added": "13272279645634667",
+               "guid": "e57fc690-8a8a-4e02-b609-d8d4e1e6bb3d",
+               "id": "12",
+               "meta_info": {
+                  "Partner": "e57fc690-8a8a-4e02-b609-d8d4e1e6bb3d",
+                  "Thumbnail": "/resources/sd_startpage.png"
+               },
+               "name": "Startpage",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-startpage-dk-dk"
+            }, {
+               "date_added": "13272279645634683",
+               "guid": "4e1fc0cf-08f4-40d9-acc9-dc79ea44cf82",
+               "id": "13",
+               "meta_info": {
+                  "Partner": "4e1fc0cf-08f4-40d9-acc9-dc79ea44cf82",
+                  "Thumbnail": "/resources/sd_accuweather.png"
+               },
+               "name": "AccuWeather",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-accuweather"
+            }, {
+               "children": [ {
+                  "date_added": "13272279645634709",
+                  "guid": "4384d754-0aa9-467f-9066-a2f6443cde7d",
+                  "id": "15",
+                  "meta_info": {
+                     "Description": "technology",
+                     "Partner": "4384d754-0aa9-467f-9066-a2f6443cde7d",
+                     "Thumbnail": "/resources/sd_vivaldi.png"
+                  },
+                  "name": "Vivaldi Features",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-browser-features"
+               }, {
+                  "date_added": "13272279645634726",
+                  "guid": "4e03018e-a197-4b80-9b6e-55caa5028c64",
+                  "id": "16",
+                  "meta_info": {
+                     "Description": "technology, social",
+                     "Partner": "4e03018e-a197-4b80-9b6e-55caa5028c64",
+                     "Thumbnail": "/resources/sd_vivaldi_community.gif"
+                  },
+                  "name": "Vivaldi Community",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-community"
+               }, {
+                  "date_added": "13272279645634744",
+                  "guid": "a4715241-d0fd-4d0f-b2ca-6e4267d644b3",
+                  "id": "17",
+                  "meta_info": {
+                     "Partner": "a4715241-d0fd-4d0f-b2ca-6e4267d644b3",
+                     "Thumbnail": "/resources/sd_webmail.png"
+                  },
+                  "name": "Vivaldi Webmail",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-webmail"
+               } ],
+               "date_added": "13272279645634702",
+               "date_modified": "13272279645634744",
+               "guid": "04f107b7-203e-49e6-ab97-d6b9e613cc4a",
+               "id": "14",
+               "meta_info": {
+                  "Partner": "04f107b7-203e-49e6-ab97-d6b9e613cc4a"
+               },
+               "name": "Vivaldi",
+               "type": "folder"
+            }, {
+               "date_added": "13272279645634760",
+               "guid": "10415f5d-2e0c-4f08-8e49-23fcd2de0943",
+               "id": "18",
+               "meta_info": {
+                  "Partner": "10415f5d-2e0c-4f08-8e49-23fcd2de0943",
+                  "Thumbnail": "/resources/sd_vivaldi_game.png"
+               },
+               "name": "Vivaldi Game",
+               "type": "url",
+               "url": "vivaldi://game/"
+            } ],
+            "date_added": "13272279645634472",
+            "date_modified": "13272279645634760",
+            "guid": "44641543-f123-438f-bc5c-8da7bb7c6819",
+            "id": "6",
+            "meta_info": {
+               "Partner": "44641543-f123-438f-bc5c-8da7bb7c6819",
+               "Speeddial": "true"
+            },
+            "name": "Speed Dial",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13272279645634779",
+               "guid": "f56c1a38-3e9e-48fc-8d6c-b800f226dbfb",
+               "id": "20",
+               "meta_info": {
+                  "Partner": "f56c1a38-3e9e-48fc-8d6c-b800f226dbfb",
+                  "Thumbnail": "/resources/sd_booking.com.png"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/booking-dk-bk"
+            }, {
+               "date_added": "13272279645634795",
+               "guid": "f79cd6e8-ebc0-444d-ac96-00da456dcb59",
+               "id": "21",
+               "meta_info": {
+                  "Partner": "f79cd6e8-ebc0-444d-ac96-00da456dcb59",
+                  "Thumbnail": "/resources/sd_aliexpress.png"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ali-dk-bk"
+            }, {
+               "date_added": "13272279645634811",
+               "guid": "4ac3d5a6-bbdd-4b1d-92a1-eaea6df81e84",
+               "id": "22",
+               "meta_info": {
+                  "Partner": "4ac3d5a6-bbdd-4b1d-92a1-eaea6df81e84",
+                  "Thumbnail": "/resources/sd_amazon.png"
+               },
+               "name": "Amazon",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/amazon-dk-bk"
+            }, {
+               "date_added": "13272279645634827",
+               "guid": "930d9804-4a0f-45ee-9317-b78ed2b548fd",
+               "id": "23",
+               "meta_info": {
+                  "Partner": "930d9804-4a0f-45ee-9317-b78ed2b548fd",
+                  "Thumbnail": "/resources/sd_ebay.png"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ebay-dk-bk"
+            } ],
+            "date_added": "13272279645634773",
+            "date_modified": "13272279645634827",
+            "guid": "12c04539-d01e-4fd3-9fbf-aa09a91e91ba",
+            "id": "19",
+            "meta_info": {
+               "Partner": "12c04539-d01e-4fd3-9fbf-aa09a91e91ba"
+            },
+            "name": "Bookmarks",
+            "type": "folder"
+         } ],
+         "date_added": "13272279644164972",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bogmærker",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13272279644164977",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Andre bogmærker",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13272279644164978",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Bogmærker på mobil",
+         "type": "folder"
+      },
+      "trash": {
+         "children": [  ],
+         "date_added": "13272279644164983",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000040000",
+         "id": "4",
+         "name": "Papirkurv",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

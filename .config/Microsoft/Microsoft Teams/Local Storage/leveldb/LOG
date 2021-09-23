@@ -1,0 +1,15 @@
+2021/08/12-09:34:57.947 2a741 Reusing MANIFEST /home/kim/dotfiles/config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/08/12-09:34:57.949 2a741 Recovering log #13
+2021/08/12-09:34:57.949 2a741 Reusing old log /home/kim/dotfiles/config/Microsoft/Microsoft Teams/Local Storage/leveldb/000013.log 
+2021/08/12-09:35:58.386 2b92b Level-0 table #17: started
+2021/08/12-09:35:58.399 2b92b Level-0 table #17: 177247 bytes OK
+2021/08/12-09:35:58.408 2b92b Delete type=0 #13
+2021/08/12-09:35:58.408 2b92b Compacting 4@0 + 1@1 files
+2021/08/12-09:35:58.418 2b92b Generated table #18@0: 120 keys, 281850 bytes
+2021/08/12-09:35:58.418 2b92b Compacted 4@0 + 1@1 files => 281850 bytes
+2021/08/12-09:35:58.427 2b92b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/12-09:35:58.427 2b92b Delete type=2 #7
+2021/08/12-09:35:58.427 2b92b Delete type=2 #9
+2021/08/12-09:35:58.427 2b92b Delete type=2 #11
+2021/08/12-09:35:58.427 2b92b Delete type=2 #14
+2021/08/12-09:35:58.427 2b92b Delete type=2 #17

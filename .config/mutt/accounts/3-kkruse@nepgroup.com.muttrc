@@ -1,0 +1,32 @@
+# vim: filetype=neomuttrc
+# muttrc file for account kkruse@nepgroup.com
+set realname = "kkruse"
+set from = "kkruse@nepgroup.com"
+set sendmail = "msmtp -a kkruse@nepgroup.com"
+alias me kkruse <kkruse@nepgroup.com>
+set folder = "/home/kim/.local/share/mail/kkruse@nepgroup.com"
+set header_cache = /home/kim/.cache/mutt-wizard/kkruse@nepgroup.com/headers
+set message_cachedir = /home/kim/.cache/mutt-wizard/kkruse@nepgroup.com/bodies
+set mbox_type = Maildir
+set hostname = "nepgroup.com"
+
+
+bind index,pager gg noop
+bind index,pager g noop
+bind index,pager M noop
+bind index,pager C noop
+bind index gg first-entry
+unmailboxes *
+unalternates *
+unset signature
+macro index o "<shell-escape>mbsync kkruse@nepgroup.com<enter>" "run mbsync to sync kkruse@nepgroup.com"
+
+mailboxes "=Arkiv" "=INBOX" "=Journal" "=Kalender/F&APg-dselsdage" "=Kalender/Helligdage i Danmark" "=Kladder" "=Noter" "=Opgaver" "=RSS-kilder" "=Sendt post" "=Slettet post/Fakturaer" "=Slettet post/kvitteringer" "=Slettet post/Mailspring/Snoozed" "=Slettet post/Sendt Post" "=Slettet post/'Sendt Post'" "=Slettet post/Slettet Post" "=Slettet post/'Slettet Post'" "=Slettet post/work/Kladder" "=Slettet post/work/Sendt Post/Slettet Post" "=Slettet post/work/'Sendt Post'/Slettet Post" "=Slettet post/work/Slettet Post" "=Slettet post/work/'Slettet Post'" "=Synkroniseringsfejl/Konflikter" "=Synkroniseringsfejl/Lokale fejl" "=Synkroniseringsfejl/Serverfejl" "=Trash" "=Udbakke" "=U&APg-nsket mail"
+macro index,pager gi "<change-folder>=INBOX<enter>" "go to inbox"
+macro index,pager Mi ";<save-message>=INBOX<enter>" "move mail to inbox"
+macro index,pager Ci ";<copy-message>=INBOX<enter>" "copy mail to inbox"
+set spoolfile = "+INBOX"
+macro index,pager gt "<change-folder>=Trash<enter>" "go to trash"
+macro index,pager Mt ";<save-message>=Trash<enter>" "move mail to trash"
+macro index,pager Ct ";<copy-message>=Trash<enter>" "copy mail to trash"
+set trash = "+Trash"

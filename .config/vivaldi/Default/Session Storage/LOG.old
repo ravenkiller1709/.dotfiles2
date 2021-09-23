@@ -1,0 +1,72 @@
+2021/08/01-12:52:11.264 5 Reusing MANIFEST /home/kim/.config/vivaldi/Default/Session Storage/MANIFEST-000001
+2021/08/01-12:52:11.264 5 Recovering log #3
+2021/08/01-12:52:11.264 5 Reusing old log /home/kim/.config/vivaldi/Default/Session Storage/000003.log 
+2021/08/01-13:56:46.174 5 Level-0 table #5: started
+2021/08/01-13:56:46.182 5 Level-0 table #5: 26176 bytes OK
+2021/08/01-13:56:46.203 5 Delete type=0 #3
+2021/08/01-15:16:38.547 3e Level-0 table #7: started
+2021/08/01-15:16:38.556 3e Level-0 table #7: 22372 bytes OK
+2021/08/01-15:16:38.571 3e Delete type=0 #4
+2021/08/01-16:54:57.681 5b Level-0 table #9: started
+2021/08/01-16:54:57.690 5b Level-0 table #9: 22630 bytes OK
+2021/08/01-16:54:57.699 5b Delete type=0 #6
+2021/08/01-17:59:45.912 86 Level-0 table #11: started
+2021/08/01-17:59:45.926 86 Level-0 table #11: 21765 bytes OK
+2021/08/01-17:59:45.936 86 Delete type=0 #8
+2021/08/01-19:16:09.549 a2 Level-0 table #13: started
+2021/08/01-19:16:09.556 a2 Level-0 table #13: 20958 bytes OK
+2021/08/01-19:16:09.565 a2 Delete type=0 #10
+2021/08/01-20:39:41.614 df Level-0 table #15: started
+2021/08/01-20:39:41.621 df Level-0 table #15: 19694 bytes OK
+2021/08/01-20:39:41.630 df Delete type=0 #12
+2021/08/01-20:39:41.630 df Compacting 4@0 + 1@1 files
+2021/08/01-20:39:41.641 df Generated table #16@0: 1 keys, 1382 bytes
+2021/08/01-20:39:41.641 df Compacted 4@0 + 1@1 files => 1382 bytes
+2021/08/01-20:39:41.649 df compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/01-20:39:41.650 df Delete type=2 #7
+2021/08/01-20:39:41.650 df Delete type=2 #9
+2021/08/01-20:39:41.650 df Delete type=2 #11
+2021/08/01-20:39:41.650 df Delete type=2 #13
+2021/08/01-20:39:41.650 df Delete type=2 #15
+2021/08/01-21:55:51.187 103 Level-0 table #18: started
+2021/08/01-21:55:51.197 103 Level-0 table #18: 19142 bytes OK
+2021/08/01-21:55:51.219 103 Delete type=0 #14
+2021/08/01-23:03:41.124 127 Level-0 table #20: started
+2021/08/01-23:03:41.131 127 Level-0 table #20: 20423 bytes OK
+2021/08/01-23:03:41.140 127 Delete type=0 #17
+2021/08/02-00:17:40.338 14f Level-0 table #22: started
+2021/08/02-00:17:40.345 14f Level-0 table #22: 20039 bytes OK
+2021/08/02-00:17:40.360 14f Delete type=0 #19
+2021/08/02-01:37:43.054 15c Level-0 table #24: started
+2021/08/02-01:37:43.061 15c Level-0 table #24: 19408 bytes OK
+2021/08/02-01:37:43.070 15c Delete type=0 #21
+2021/08/02-01:37:43.070 15c Compacting 4@0 + 1@1 files
+2021/08/02-01:37:43.075 15c Generated table #25@0: 1 keys, 1310 bytes
+2021/08/02-01:37:43.075 15c Compacted 4@0 + 1@1 files => 1310 bytes
+2021/08/02-01:37:43.090 15c compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/02-01:37:43.091 15c Delete type=2 #16
+2021/08/02-01:37:43.091 15c Delete type=2 #18
+2021/08/02-01:37:43.091 15c Delete type=2 #20
+2021/08/02-01:37:43.091 15c Delete type=2 #22
+2021/08/02-01:37:43.092 15c Delete type=2 #24
+2021/08/02-02:55:10.015 17c Level-0 table #27: started
+2021/08/02-02:55:10.023 17c Level-0 table #27: 20104 bytes OK
+2021/08/02-02:55:10.031 17c Delete type=0 #23
+2021/08/02-04:02:11.123 1ad Level-0 table #29: started
+2021/08/02-04:02:11.136 1ad Level-0 table #29: 19607 bytes OK
+2021/08/02-04:02:11.158 1ad Delete type=0 #26
+2021/08/02-05:14:21.917 1c9 Level-0 table #31: started
+2021/08/02-05:14:21.924 1c9 Level-0 table #31: 19758 bytes OK
+2021/08/02-05:14:21.933 1c9 Delete type=0 #28
+2021/08/02-06:32:09.525 206 Level-0 table #33: started
+2021/08/02-06:32:09.532 206 Level-0 table #33: 20935 bytes OK
+2021/08/02-06:32:09.541 206 Delete type=0 #30
+2021/08/02-06:32:09.541 206 Compacting 4@0 + 1@1 files
+2021/08/02-06:32:09.546 206 Generated table #34@0: 1 keys, 1519 bytes
+2021/08/02-06:32:09.546 206 Compacted 4@0 + 1@1 files => 1519 bytes
+2021/08/02-06:32:09.554 206 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/08/02-06:32:09.555 206 Delete type=2 #25
+2021/08/02-06:32:09.555 206 Delete type=2 #27
+2021/08/02-06:32:09.555 206 Delete type=2 #29
+2021/08/02-06:32:09.555 206 Delete type=2 #31
+2021/08/02-06:32:09.555 206 Delete type=2 #33

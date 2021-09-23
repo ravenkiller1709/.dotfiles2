@@ -1,0 +1,40 @@
+#! /bin/sh
+setxkbmap dk &
+fc-cache -vf &
+xset +fp $HOME/.local/share/fonts
+xset fp rehash
+xsetroot -cursor_name left_ptr &
+killall dunst && dunst &
+/usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
+#feh --bg-scale --randomize ~/Dokumenter/Billeder/4k/* &
+#nitrogen --restore &
+wal -i ~/Dokumenter/Billeder/4k/pexels-aleksandar-pasaric-325185.jpg
+#killall -q chwall.sh && /home/kim/.scripts/chwall.sh &
+#picom --corner-radius 40 &
+picom &
+flameshot &
+$HOME/.config/polybar/launch.sh &
+
+pgrep -x sxhkd > /dev/null || sxhkd &
+
+#DisplayPort-0 connected primary 3840x2160+0+0 (normal left inverted right x axis y axis) 698mm x 393mm
+
+#DisplayPort-1 connected 3840x2160+3840+0 (normal left inverted right x axis y axis) 698mm x 393mm
+
+bspc monitor DisplayPort-0 -d 1 2 3 4
+bspc monitor DisplayPort-1 -d 5 6 7 8
+
+bspc config border_width         0
+bspc config window_gap           5
+
+bspc config split_ratio          0.6
+bspc config borderless_monocle   true
+bspc config gapless_monocle      true
+
+bspc rule -a Gimp desktop='^8' state=floating follow=on
+bspc rule -a Firefox desktop='^2'
+bspc rule -a Vivaldi-stable desktop=^6 follow=on
+bspc rule -a mpv state=floating
+bspc rule -a URxvt state=floating
+bspc rule -a Kupfer.py focus=on
+bspc rule -a Screenkey manage=off

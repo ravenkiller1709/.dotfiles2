@@ -1,0 +1,6 @@
+2021/08/12-08:55:17.438 a4d Reusing MANIFEST /home/kim/dotfiles/config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/08/12-08:55:17.438 a4d Recovering log #10
+2021/08/12-08:55:17.439 a4d Reusing old log /home/kim/dotfiles/config/Microsoft/Microsoft Teams/Local Storage/leveldb/000010.log 
+2021/08/12-08:56:17.966 1c16 Level-0 table #14: started
+2021/08/12-08:56:17.981 1c16 Level-0 table #14: 165573 bytes OK
+2021/08/12-08:56:17.989 1c16 Delete type=0 #10

@@ -1,0 +1,11 @@
+{
+ "default.route.alsa_card.pci-0000_01_00.1:profile:off": [ ],
+ "default.route.alsa_card.usb-Burr-Brown_from_TI_USB_Audio_CODEC-00:profile:off": [ ],
+ "default.route.alsa_card.usb-046d_HD_Pro_Webcam_C920_335A435F-02:profile:off": [ ],
+ "default.route.alsa_card.pci-0000_00_1b.0:profile:off": [ ],
+ "default.route.alsa_card.pci-0000_01_00.1:profile:output:hdmi-stereo-extra2": [ ],
+ "default.route.alsa_card.usb-Burr-Brown_from_TI_USB_Audio_CODEC-00:profile:output:analog-stereo-output+input:analog-stereo-input": [ ],
+ "default.route.alsa_card.usb-046d_HD_Pro_Webcam_C920_335A435F-02:profile:input:analog-stereo": [ ],
+ "default.route.alsa_card.pci-0000_00_1b.0:profile:output:iec958-stereo": [ ],
+ "default.route.alsa_card.pci-0000_01_00.1:profile:output:hdmi-stereo-extra3": [ ]
+}
